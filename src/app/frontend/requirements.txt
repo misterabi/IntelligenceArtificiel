@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+pillow
+requests
+streamlit_drawable_canvas
+uvicorn

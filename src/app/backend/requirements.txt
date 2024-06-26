@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+torchvision
+matplotlib
+tqdm
+streamlit
+opencv-python-headless
+pillow
+requests
+streamlit-drawable-canvas
